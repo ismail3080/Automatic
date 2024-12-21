@@ -1,0 +1,8 @@
+clear all;
+close all;
+clc;
+%gain
+num = [0 0.186];
+den = [1 -0.776];
+% ls cfct
+hzinv = tf
